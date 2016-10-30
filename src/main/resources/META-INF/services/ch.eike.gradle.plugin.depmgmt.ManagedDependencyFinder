@@ -1,0 +1,5 @@
+# Built-in finders
+ch.eike.gradle.plugin.depmgmt.finder.CompleteMapManagedDependencyFinder
+ch.eike.gradle.plugin.depmgmt.finder.CompleteStringManagedDependencyFinder
+ch.eike.gradle.plugin.depmgmt.finder.MapManagedDependencyFinder
+ch.eike.gradle.plugin.depmgmt.finder.StringManagedDependencyFinder

@@ -4,5 +4,6 @@ gradle-app.setting
 !gradle-wrapper.jar
 build
 bin
+classes
 *.iml
 .idea
